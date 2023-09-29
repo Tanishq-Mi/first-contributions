@@ -27,7 +27,7 @@
 - [Abhishek Kumar](https://github.com/abhishek-Roy22)
 - ![Joshua Ramat](https://github.com/joshuaramat)
 - [HP](https://github.com/Black-Hwak)
--  - [Tanishq Mishra](https://github.com/Tanishq-Mi)
+- [Tanishq Mishra](https://github.com/Tanishq-Mi)
 - [Arturo López](https://github.com/arturolopeze)
 - [Chloe Gavrilovic](https://github.com/cmgvc)
 - [Arslan Asghar](https://github.com/al-arslan)
