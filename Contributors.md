@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
+- [Tanishq Mishra](https://github.com/Tanishq-Mi)
 - [Rex Cheng](https://github.com/lychengrex)
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
 - [Ilay Eldar](https://github.com/ilayEldar24)
@@ -167,6 +167,7 @@
 - [Thomas Mestdagh](https://github.com/thomasmestdagh)
 - [Veer Pratap](https://github.com/Veercodeprog)
 - -Yash Mishra
+- 
 - -Ashish Kumar Singh
 - [cybzzz](https://github.com/cybzzz)
 - NandaHein
