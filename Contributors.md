@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-- [Tanishq Mishra](https://github.com/Tanishq-Mi)
+
 - [Rex Cheng](https://github.com/lychengrex)
 - [Adan Ayaz](https://github.com/adan-ayaz-stan)
 - [Ilay Eldar](https://github.com/ilayEldar24)
@@ -26,7 +26,8 @@
 - [Mayank Gautam]
 - [Abhishek Kumar](https://github.com/abhishek-Roy22)
 - ![Joshua Ramat](https://github.com/joshuaramat)
-- [HP] (https://github.com/Black-Hwak)
+- [HP](https://github.com/Black-Hwak)
+-  - [Tanishq Mishra](https://github.com/Tanishq-Mi)
 - [Arturo López](https://github.com/arturolopeze)
 - [Chloe Gavrilovic](https://github.com/cmgvc)
 - [Arslan Asghar](https://github.com/al-arslan)
